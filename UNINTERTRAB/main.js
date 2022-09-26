@@ -21,7 +21,7 @@ if (navClose) {
   })
 }
 
-/* ===================== REMOVE MENU MOBILE ===================*/
+/* ===================== REMOVA MENU MOBILE ===================*/
 
 const navLink = document.querySelectorAll('.nav__link')
 
@@ -32,7 +32,7 @@ function linkAction() {
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
-/* ===================== SKILLS OPEN/CLOSE ===================*/
+/* ===================== SKILLS ABRIR/FECHAR ===================*/
 const skillsContent = document.getElementsByClassName('skills__content'),
   skillsHeader = document.querySelectorAll('.skills__header')
 

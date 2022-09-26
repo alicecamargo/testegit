@@ -593,7 +593,7 @@ img{
 .show-scroll{
     bottom: 5rem;
 }
-/* ============ SCROLLBAR==============*/
+/* ============ SCROLLBAR/BARRA LATERAL DO SITE ==============*/
 ::-webkit-scrollbar{
     width: .60rem;
     background-color: var(--scroll-bar-color);
